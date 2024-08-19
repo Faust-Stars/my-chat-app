@@ -78,7 +78,7 @@ Start the Client
 
 ### Notifications
 
-!Description[](screenshots/group_and_notification.png)
+![Description](screenshots/group_and_notification.png)
 
 ### Add or Remove users from group
 
