@@ -57,36 +57,36 @@ Start the Client
 
 ### Authenticaton
 
-![](https://github.com/Faust-Stars/my-chat-app/blob/master/screenshots/login.PNG)
-![](https://github.com/Faust-Stars/my-chat-app/blob/master/screenshots/signup.PNG)
+![](https://github.com/Faust-Stars/my-chat-app/screenshots/login.PNG)
+![](https://github.com/Faust-Stars/my-chat-app/screenshots/signup.PNG)
 
 ### Real-Time Chatting with Typing indicators and Adaptive
 
-![](https://github.com/Faust-Stars/my-chat-app/blob/master/screenshots/real-time_and_adaptive.PNG)
+![](https://github.com/Faust-Stars/my-chat-app/screenshots/real-time_and_adaptive.PNG)
 
 ### One to One chat
 
-![](https://github.com/Faust-Stars/my-chat-app/blob/master/screenshots/mainscreen.PNG)
+![](https://github.com/Faust-Stars/my-chat-app/screenshots/mainscreen.PNG)
 
 ### Search Users
 
-![](https://github.com/Faust-Stars/my-chat-app/blob/master/screenshots/search.PNG)
+![](https://github.com/Faust-Stars/my-chat-app/screenshots/search.PNG)
 
 ### Create Group Chats
 
-![](https://github.com/Faust-Stars/my-chat-app/blob/master/screenshots/create_new_group.PNG)
+![](https://github.com/Faust-Stars/my-chat-app/screenshots/create_new_group.PNG)
 
 ### Notifications
 
-![](https://github.com/Faust-Stars/my-chat-app/blob/master/screenshots/group_and_notification.PNG)
+![](https://github.com/Faust-Stars/my-chat-app/screenshots/group_and_notification.PNG)
 
 ### Add or Remove users from group
 
-![](https://github.com/Faust-Stars/my-chat-app/blob/master/screenshots/add_and_remove_users.PNG)
+![](https://github.com/Faust-Stars/my-chat-app/screenshots/add_and_remove_users.PNG)
 
 ### View Other user Profile
 
-![](https://github.com/Faust-Stars/my-chat-app/blob/master/screenshots/profile.PNG)
+![](https://github.com/Faust-Stars/my-chat-app/screenshots/profile.PNG)
 
 ## Made By
 
